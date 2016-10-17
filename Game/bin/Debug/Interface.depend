@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1465488124 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro\interface\main.c
+	"biblioteca.h"
+
+1465479704 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro\interface\init.c
+	"biblioteca.h"
+
+1465479704 c:\users\usuario\desktop\programas\graduação simulator\interface allegro\interface\biblioteca.h
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+
+1465425172 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro\interface\teclado.c
+	"biblioteca.h"
+
+1465425211 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro\interface\mouse.c
+	"biblioteca.h"
+
+1465426008 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro\interface\button.c
+
+1465429137 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro\interface\novajanela.c
+	"biblioteca.h"
+
+1465475636 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro1006\interface\init.c
+	"biblioteca.h"
+
+1465567094 c:\users\usuario\desktop\programas\graduação simulator\interface allegro1006\interface\biblioteca.h
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
+1465475640 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro1006\interface\teclado.c
+	"biblioteca.h"
+
+1465475636 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306\interface allegro2306\interface\init.c
+	"biblioteca.h"
+
+1465567094 c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306\interface allegro2306\interface\biblioteca.h
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
+1465475640 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306\interface allegro2306\interface\teclado.c
+	"biblioteca.h"
+
+1466728260 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306\interface allegro2306\interface\main.c
+	"biblioteca.h"
+
+1465475636 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306v4\interface\init.c
+	"biblioteca.h"
+
+1466739351 c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306v4\interface\biblioteca.h
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
+1466737722 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306v4\interface\teclado.c
+
+1465475636 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306v6\interface\init.c
+	"biblioteca.h"
+
+1466739350 c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306v6\interface\biblioteca.h
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
+1466737722 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306v6\interface\teclado.c
+
+1466749588 source:c:\users\usuario\desktop\programas\graduação simulator\interface allegro2306v6\interface\main.c
+	"biblioteca.h"
+
+1465475636 source:c:\users\usuario\desktop\programas\engcompsimulator\interface\init.c
+	"biblioteca.h"
+
+1466739350 c:\users\usuario\desktop\programas\engcompsimulator\interface\biblioteca.h
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
+1466737722 source:c:\users\usuario\desktop\programas\engcompsimulator\interface\teclado.c
+
